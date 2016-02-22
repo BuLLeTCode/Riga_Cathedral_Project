@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="6_scaled" size="300.000000 450.000000" />
+    <ImageTarget name="4_scaled" size="300.000000 450.000000" />
+    <ImageTarget name="5_scaled" size="300.000000 450.000000" />
+    <ImageTarget name="3_scaled" size="400.000000 600.000000" />
+    <ImageTarget name="2_scaled" size="400.000000 266.600006" />
+    <ImageTarget name="1_scaled" size="400.000000 266.600006" />
+    <ImageTarget name="1att" size="300.000000 199.199997" />
+    <ImageTarget name="3att" size="300.000000 213.199997" />
+    <ImageTarget name="2att" size="300.000000 212.399994" />
+    <ImageTarget name="_origin_Sodien-apgroziba-nonak-2" size="100.000000 56.786705" />
+    <ImageTarget name="eurozone-5-euro-new-banknote" size="100.000000 50.455372" />
+  </Tracking>
+</QCARConfig>
